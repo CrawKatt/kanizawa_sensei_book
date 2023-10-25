@@ -1,0 +1,6 @@
+[book]
+authors = ["crawkatt"]
+language = "es"
+multilingual = false
+src = "src"
+title = "Guia de contribucion en Español"
